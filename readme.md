@@ -1,6 +1,7 @@
 
 
-![title](Images/trygithim.png)
+![title](images/trygithim.png)
+
 # Biagio Ferro  GitHub
 ## Descrizione:
 Ciao a tutti nnso cosa scrivere al momento
