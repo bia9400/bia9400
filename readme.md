@@ -1,11 +1,12 @@
 # Ciao Sono Biagio!
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+Skills:
+- [x] Vue
+- [x] Laravel
+- [x] SQL
+- [ ] CSS
+- [ ] HTML5
+- [ ] Javascript
+- [ ] SASS
+- [ ] MySQL
+- [ ] PHP
