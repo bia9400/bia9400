@@ -6,9 +6,9 @@
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
 In questa parte devo mettere una descrizione che per ora non ho
 
+##Progetti
 
-
-### Skills:
+## Skills:
 
 - [x] Vue
 - [x] Laravel
