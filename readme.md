@@ -2,6 +2,7 @@
 ```
 const developer={
 	author: "Biagio Ferro"
+	<span style="color:blue">skil: "attacchiti</span>.
 }
 ```
 
