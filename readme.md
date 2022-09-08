@@ -7,9 +7,15 @@
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti
+
 <div style="display:flex">
-	img
 	
+	
+	<img src="./images/idk.png" alt="">
+	<img src="./images/idk.png" alt="">
+
+
+
 </div>
 ## Skills:
 
