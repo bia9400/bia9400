@@ -2,9 +2,6 @@
 
 <<<<<<< HEAD
 [![title](images/idk.png)](https://github.com/bia9400/htmlcss-playstation)
-=======
-![title](images/idk.png)(https://github.com/bia9400/htmlcss-playstation)
->>>>>>> 9e6eb791f387d0fe43c25d5ea02eee11a022af52
 
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
