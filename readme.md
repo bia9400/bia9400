@@ -1,6 +1,6 @@
 # Benvenuto sul mio profilo Git-Hub
 
-![info](images/idk.png)
+![title](images/idk.png)
 
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
