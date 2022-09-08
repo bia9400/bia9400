@@ -7,15 +7,17 @@
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti
--> Sito completo in Vue: 
+Sito completo in Vue, completamente interattivo: 
 
-[![midterm](images/idk.png)](images/idk.png)
+[![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
+[![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)
 
-->Web App full-responsive (HTML5 and CSS only)
+
+Web App full-responsive (HTML5 and CSS only)
 
 [![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
 
-->Sito con Javascript Vanilla
+Sito con Javascript Vanilla
 [![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
 
 ## Skills:
