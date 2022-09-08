@@ -1,3 +1,9 @@
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"
+/>
+
 # Biagio Ferro  GitHub
 ## Descrizione:
 Ciao a tutti nnso cosa scrivere al momento
