@@ -2,9 +2,10 @@
 
 ![title](images/lastIMG.png)
 
-# Biagio Ferro  GitHub
+# Benvenuto sul mio profilo Git-Hub
 ## Descrizione:
-Ciao a tutti nnso cosa scrivere al momento
+Sono Biagio Ferro, Junior Full-Stack Web Developer.
+
 
 ### Skills:
 
