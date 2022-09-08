@@ -1,6 +1,6 @@
 # Benvenuto sul mio profilo Git-Hub
 
-![title](images/idk.png)
+![title](images/idk.png)(https://github.com/bia9400/htmlcss-playstation)
 
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
