@@ -4,9 +4,9 @@ Skills:
 - [x] Vue
 - [x] Laravel
 - [x] SQL
-- [ ] CSS
-- [ ] HTML5
-- [ ] Javascript
-- [ ] SASS
-- [ ] MySQL
-- [ ] PHP
+- [ x] CSS
+- [ x] HTML5
+- [ x] Javascript
+- [ x] SASS
+- [xx ] MySQL
+- [ x] PHP
