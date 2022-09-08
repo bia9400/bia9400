@@ -1,6 +1,6 @@
 
 
-![title](images/trygithim.png)
+![title](images/new.png)
 
 # Biagio Ferro  GitHub
 ## Descrizione:
