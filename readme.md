@@ -1,10 +1,11 @@
 
 
-![title](images/lastIMG.png)
+![title](images/idk.png)
 
 # Benvenuto sul mio profilo Git-Hub
 ## 
 Sono Biagio Ferro, Junior Full-Stack Web Developer.
+
 
 
 ### Skills:
