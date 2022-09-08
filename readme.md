@@ -1,6 +1,8 @@
 
 ```
-ciao sto programmando
+const developer={
+	author: "Biagio Ferro"
+}
 ```
 
 # Biagio Ferro  GitHub
