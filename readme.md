@@ -1,11 +1,6 @@
 
-~~~
-const developer={
-	author: "Biagio Ferro"
-	<span style="color:blue">skil: "attacchiti</span>.
-}
-~~~
 
+![title](Images/trygithim.png)
 # Biagio Ferro  GitHub
 ## Descrizione:
 Ciao a tutti nnso cosa scrivere al momento
