@@ -11,8 +11,12 @@ In questa parte devo mettere una descrizione che per ora non ho
 
 [![midterm](images/idk.png)](images/idk.png)
 
+->Web App full-responsive (HTML5 and CSS only)
+
+[![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
+
 ->Sito con Javascript Vanilla
-[![Playstation](images/idk.png)](images/playstation.png)
+[![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
 
 ## Skills:
 
