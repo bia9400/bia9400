@@ -11,8 +11,8 @@ In questa parte devo mettere una descrizione che per ora non ho
 <div style="display:flex">
 	
 	
-	<img src="./images/idk.png" alt="">
-	<img src="./images/idk.png" alt="">
+	<img src="images/idk.png" alt="">
+	<img src="images/idk.png" alt="">
 
 
 
