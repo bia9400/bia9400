@@ -3,7 +3,7 @@
 ![title](images/lastIMG.png)
 
 # Benvenuto sul mio profilo Git-Hub
-## Descrizione:
+## 
 Sono Biagio Ferro, Junior Full-Stack Web Developer.
 
 
