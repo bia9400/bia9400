@@ -1,14 +1,18 @@
 # Benvenuto sul mio profilo Git-Hub
 
 
-![title](images/idk.png)
+![header](images/idk.png)
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti
-![title](images/idk.png)
-![title](images/idk.png)
+-> Sito completo in Vue: 
+
+[![midterm](images/idk.png)](images/idk.png)
+
+->Sito con Javascript Vanilla
+[![Playstation](images/idk.png)](images/playstation.png)
 
 ## Skills:
 
