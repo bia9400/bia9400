@@ -7,15 +7,9 @@
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti
+![title](images/idk.png)
+![title](images/idk.png)
 
-<div style="display:flex">
-	
-	ciao 
-	ciao
-
-
-
-</div>
 ## Skills:
 
 - [x] Vue
