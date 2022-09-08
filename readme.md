@@ -4,7 +4,7 @@
 
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer.
-## fckwlwbjebk
+In questa parte devo mettere una descrizione che per ora non ho
 
 
 
