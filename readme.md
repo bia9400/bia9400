@@ -8,10 +8,10 @@ In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti (clicca sulle imagini per visualizzare le repository!)
 
-
-
-
-
+ <br>
+  <br>
+   <br>
+    <br>
 - Sito completamente interattivo e responsive in Vue: 
 
 	 [![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
