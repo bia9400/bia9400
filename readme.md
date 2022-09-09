@@ -52,24 +52,6 @@ https://user-images.githubusercontent.com/101462973/189294800-d1122c8c-5e4e-4c88
 <br>
 <br>
 
-
-### Web App Spotify 
-> HTML5 and CSS only
-<br>
-<br>
-
-[![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
-<br>
-<br>
-
-### Sito Playstation:
-<br>
-<br>
-
-[![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
-
-<br>
-<br>
 	
 
 ## Skills:
