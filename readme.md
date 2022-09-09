@@ -5,18 +5,6 @@
 ![header](images/dametteregit.png)
 
 
-## Skills:
-
-- [x] Vue
-- [x] Laravel
-- [x] SQL
-- [x] CSS
-- [x] HTML5
-- [x] Javascript
-- [x] SASS
-- [x] MySQL
-- [x] PHP
-
 
 ## Progetti 
 
