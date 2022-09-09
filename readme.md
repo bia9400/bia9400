@@ -1,5 +1,6 @@
 # Benvenuto sul mio profilo Git-Hub
 
+## About and Skills: 
 
 ![header](images/dametteregit.png)
 
