@@ -15,15 +15,14 @@ In questa parte devo mettere una descrizione che per ora non ho
 <br>
 <br>
 
-Screenshot
-[![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
-
-<br>
-<br>
-
-Video
-
 https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4
+
+[Link Repo](https://github.com/bia9400/proj-html-vuejs)
+<br>
+<br>
+
+
+
 
 <br>
 <br>
