@@ -6,7 +6,8 @@
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
 In questa parte devo mettere una descrizione che per ora non ho
 
-## Progetti (clicca sulle imagini per visualizzare le repository!)
+## Progetti 
+>Alcuni dei progeti che ho realizzato
  <br>
  <br>
    
