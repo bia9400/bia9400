@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd
 <br>
 
 ### Web App Boolzapp in Vue
-Riproduzione Whatsaap web in Javascript
+>Riproduzione Whatsaap web in Javascript
 <br>
 <br>
 Video
