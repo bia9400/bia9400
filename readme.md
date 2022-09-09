@@ -6,7 +6,7 @@
 
 
 
-## Progetti 
+## Alcuni dei miei Progetti 
 
     
 ### Sito interattivo e responsive in Vue: 
