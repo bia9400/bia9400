@@ -24,6 +24,7 @@ https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd
 
 https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a-aa83-494d8d042390.mp4
 
+[Link Repo](https://github.com/bia9400/laravel-blog)
 <br>
 <br>
 
