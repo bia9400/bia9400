@@ -11,7 +11,8 @@ In questa parte devo mettere una descrizione che per ora non ho
  <br>
    
     
-### Sito completamente interattivo e responsive in Vue: 
+### Sito interattivo e responsive in Vue: 
+>Rproduzione sito KeyNotes ed alcune features (timer funzionante, slider,google maps, video embed)
 <br>
 <br>
 
@@ -27,7 +28,7 @@ https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd
 <br>
 <br>
 
-### Web App Boolzapp in Vue
+### Web App Boolzapp 
 >Riproduzione Whatsaap web in Javascript
 <br>
 <br>
