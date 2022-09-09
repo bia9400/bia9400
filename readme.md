@@ -19,6 +19,12 @@ In questa parte devo mettere una descrizione che per ora non ho
 
 	 [![whatsaap](images/whatsaap.png)](https://github.com/bia9400/vue-boolzapp)
 
+
+- Blog in Laravel e Vue (grafica grezza, gestione CRUDE ed autenticazione )
+
+https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a-aa83-494d8d042390.mp4
+
+
 - Web App Spotify (HTML5 and CSS only) 
 
 	 [![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
