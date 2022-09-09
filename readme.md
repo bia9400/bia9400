@@ -27,24 +27,40 @@ Video
 
 
 
-- Web App Whatsaap in Vue
+### Web App Whatsaap in Vue
+<br>
+<br>
 
-	 [![whatsaap](images/whatsaap.png)](https://github.com/bia9400/vue-boolzapp)
+[![whatsaap](images/whatsaap.png)](https://github.com/bia9400/vue-boolzapp)
 
+<br>
+<br>
 
-- Blog in Laravel e Vue (grafica grezza, gestione CRUDE ed autenticazione )
+### Blog in Laravel e Vue (grafica grezza, gestione CRUDE ed autenticazione )
+<br>
+<br>
 
 https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a-aa83-494d8d042390.mp4
 
+<br>
+<br>
 
-- Web App Spotify (HTML5 and CSS only) 
+### Web App Spotify (HTML5 and CSS only) 
+<br>
+<br>
 
-	 [![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
+[![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
+<br>
+<br>
 
-- Sito Playstation:
+### Sito Playstation:
+<br>
+<br>
 
-	 [![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
+[![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
 
+<br>
+<br>
 	
 
 ## Skills:
