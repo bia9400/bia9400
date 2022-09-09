@@ -4,7 +4,7 @@
 ![header](images/idk.png)
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
-###La mia più grande passione è creare e progettare, da sempre ho smontato costruito e studiato <br> ogni cosa che mi passava per le mani
+### La mia più grande passione è creare e progettare, da sempre ho smontato costruito e studiato <br> ogni cosa che mi passava per le mani
 
 ## Progetti 
 Alcuni dei progeti che ho realizzato
