@@ -7,7 +7,7 @@
 ### La mia più grande passione è creare e progettare, da sempre ho smontato costruito e studiato <br> ogni cosa che mi passava per le mani
 
 ## Progetti 
-Alcuni dei progeti che ho realizzato
+
  <br>
  <br>
    
