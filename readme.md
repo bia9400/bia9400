@@ -8,9 +8,6 @@
 
 ## Progetti 
 
- <br>
- <br>
-   
     
 ### Sito interattivo e responsive in Vue: 
 >Rproduzione sito KeyNotes ed alcune features (timer funzionante, slider,google maps, video embed)
