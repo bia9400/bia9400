@@ -12,7 +12,7 @@ In questa parte devo mettere una descrizione che per ora non ho
   <br>
    
     
-- Sito completamente interattivo e responsive in Vue: 
+### Sito completamente interattivo e responsive in Vue: 
 <br>
 <br>
 
