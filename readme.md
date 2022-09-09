@@ -11,8 +11,6 @@
     
 ### Sito interattivo e responsive in Vue: 
 >Rproduzione sito KeyNotes ed alcune features (timer funzionante, slider,google maps, video embed)
-<br>
-<br>
 
 https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4
 
@@ -20,11 +18,6 @@ https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd
 <br>
 <br>
 
-
-
-
-<br>
-<br>
 
 ### Blog in Laravel e Vue 
 >Gestione CRUDE, controllers ed autenticazione. Grafica non ultimata.
