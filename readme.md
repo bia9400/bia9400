@@ -7,7 +7,7 @@
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti 
->Alcuni dei progeti che ho realizzato
+Alcuni dei progeti che ho realizzato
  <br>
  <br>
    
