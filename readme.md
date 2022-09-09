@@ -1,4 +1,4 @@
-# Benvenuto sul mio profilo Git-Hub  💻 🚵 🧪 ⚗️
+# Benvenuto  💻 🚵 🧪 ⚗️
 
 ## About and Skills: 
 
