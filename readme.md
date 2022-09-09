@@ -7,9 +7,8 @@
 In questa parte devo mettere una descrizione che per ora non ho
 
 ## Progetti (clicca sulle imagini per visualizzare le repository!)
-
  <br>
-  <br>
+ <br>
    
     
 ### Sito completamente interattivo e responsive in Vue: 
@@ -27,16 +26,18 @@ Video
 
 
 
-### Web App Whatsaap in Vue
+### Web App Boolzapp in Vue
+Riproduzione Whatsaap web
 <br>
 <br>
-
+Screenshot
 [![whatsaap](images/whatsaap.png)](https://github.com/bia9400/vue-boolzapp)
 
 <br>
 <br>
 
-### Blog in Laravel e Vue (grafica grezza, gestione CRUDE ed autenticazione )
+### Blog in Laravel e Vue 
+Gestione CRUDE, controllers ed autenticazione. Grafica non ultimata.
 <br>
 <br>
 
