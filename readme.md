@@ -16,7 +16,7 @@ In questa parte devo mettere una descrizione che per ora non ho
 <br>
 <br>
 
-Screendhot
+Screenshot
 [![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
 
 <br>
