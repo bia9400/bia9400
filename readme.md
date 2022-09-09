@@ -22,7 +22,7 @@ Screenshot
 <br>
 
 Video
-[[![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)](https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4)
+https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4
 
 
 
