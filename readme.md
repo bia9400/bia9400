@@ -14,17 +14,20 @@ In questa parte devo mettere una descrizione che per ora non ho
 	 [![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)
 
 
-- Web App full-responsive (HTML5 and CSS only)
+
+- Web App Whatsaap in Vue
+
+	 [![whatsaap](images/whatsaap.png)](https://github.com/bia9400/vue-boolzapp)
+
+- Web App Spotify (HTML5 and CSS only) 
 
 	 [![Spotify](images/spotify.png)](https://github.com/bia9400/html-css-spotifyweb)
-
-
 
 - Sito Playstation:
 
 	 [![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
 
-	
+	[!bo](images/laravel.mp4)
 
 ## Skills:
 
