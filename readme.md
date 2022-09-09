@@ -27,7 +27,7 @@ In questa parte devo mettere una descrizione che per ora non ho
 
 	 [![Playstation](images/playstation.png)](https://github.com/bia9400/htmlcss-playstation)
 
-	[!bo](images/laravel.mp4)
+	
 
 ## Skills:
 
