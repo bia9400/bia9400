@@ -1,4 +1,4 @@
-# Benvenuto sul mio profilo Git-Hub :mountain_bicyclist:
+# Benvenuto sul mio profilo Git-Hub  💻 🚵 🧪 ⚗️
 
 ## About and Skills: 
 
