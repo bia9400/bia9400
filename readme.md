@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a
 >Riproduzione Whatsaap web in Javascript
 <br>
 <br>
-Video
+
 
 https://user-images.githubusercontent.com/101462973/189294800-d1122c8c-5e4e-4c88-948d-4df74ef2a790.mp4
 
