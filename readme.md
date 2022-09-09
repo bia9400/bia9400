@@ -1,6 +1,6 @@
 # Benvenuto  💻 🚵 🧪 ⚗️
 
-## About and Skills: 
+## About.me and Skills: 
 
 ![header](images/dametteregit.png)
 
