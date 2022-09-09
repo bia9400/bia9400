@@ -3,8 +3,7 @@
 
 ![header](images/dametteregit.png)
 
-## Sono Biagio Ferro, Junior Full-Stack Web Developer
-### La mia più grande passione è creare e progettare, da sempre ho smontato costruito e studiato <br> ogni cosa che mi passava per le mani
+
 ## Skills:
 
 - [x] Vue
@@ -62,17 +61,5 @@ https://user-images.githubusercontent.com/101462973/189294800-d1122c8c-5e4e-4c88
 <br>
 
 	
-
-## Skills:
-
-- [x] Vue
-- [x] Laravel
-- [x] SQL
-- [x] CSS
-- [x] HTML5
-- [x] Javascript
-- [x] SASS
-- [x] MySQL
-- [x] PHP
 
 	
