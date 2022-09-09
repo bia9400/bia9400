@@ -16,12 +16,13 @@ In questa parte devo mettere una descrizione che per ora non ho
 <br>
 <br>
 
-
+Screendhot
 [![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
 
 <br>
 <br>
 
+Video
 [![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)
 
 
