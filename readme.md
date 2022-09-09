@@ -1,7 +1,7 @@
 # Benvenuto sul mio profilo Git-Hub
 
 
-![header](images/idk.png)
+![header](images/dametteregit.png)
 
 ## Sono Biagio Ferro, Junior Full-Stack Web Developer
 In questa parte devo mettere una descrizione che per ora non ho
@@ -12,6 +12,7 @@ In questa parte devo mettere una descrizione che per ora non ho
   <br>
    <br>
     <br>
+	
 - Sito completamente interattivo e responsive in Vue: 
 
 	 [![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
