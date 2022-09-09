@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/101462973/189294800-d1122c8c-5e4e-4c88
 <br>
 
 ### Blog in Laravel e Vue 
-Gestione CRUDE, controllers ed autenticazione. Grafica non ultimata.
+>Gestione CRUDE, controllers ed autenticazione. Grafica non ultimata.
 <br>
 <br>
 
