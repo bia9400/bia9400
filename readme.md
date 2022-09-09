@@ -50,7 +50,8 @@ https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a
 <br>
 <br>
 
-### Web App Spotify (HTML5 and CSS only) 
+### Web App Spotify 
+> HTML5 and CSS only
 <br>
 <br>
 
