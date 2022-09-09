@@ -10,14 +10,19 @@ In questa parte devo mettere una descrizione che per ora non ho
 
  <br>
   <br>
-   <br>
-    <br>
+   
     
 - Sito completamente interattivo e responsive in Vue: 
+<br>
+<br>
 
-	 [![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
-	
-	 [![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)
+
+[![midterm](images/site-1.png)](https://github.com/bia9400/proj-html-vuejs)
+
+<br>
+<br>
+
+[![midterm](images/site-2.png)](https://github.com/bia9400/proj-html-vuejs)
 
 
 
