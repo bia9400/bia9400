@@ -2,7 +2,7 @@
 
 ## About.me and Skills: 
 
-![header](images/githubbb.png)
+![header](images/githuubbb.png)
 
 
 
