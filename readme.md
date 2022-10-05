@@ -1,6 +1,6 @@
-# Biagio Ferro - Git-Hub   💻 🚵 🧪 ⚗️
 
-## About.me and Skills: 
+
+# About.me and Skills: 
 
 ![header](images/dametteregit.png)
 
