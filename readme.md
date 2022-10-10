@@ -8,6 +8,16 @@
 
 ## Alcuni video dei miei Progetti 
 
+
+### Applicazione web viaggi 
+>Rproduzione Airbnb, parte pubblica ed Admin
+
+https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4
+
+[Link Repo](https://github.com/bia9400/proj-html-vuejs)
+<br>
+<br>
+
     
 ### Sito interattivo e responsive in Vue: 
 >Rproduzione sito KeyNotes ed alcune features (timer funzionante, slider,google maps, video embed)
