@@ -11,7 +11,7 @@
 
 ## Applicazione web viaggi 
 >Rproduzione di Airbnb e delle sue principali funzionalità come : 
->Ricerca alloggio e fltri avanzati, creazione alloggio e messa a disposizione, gestione pagamento e sponsorizzazione, comunicazione utente-host, gestione visibiità alloggio, intgrazione TOM TOM ed Open street map per autocompletare indirizzi di ricerca e visualizzare la mappa agli utenti ed agli host, chiamate api protette ed autenticate per l'Admin.
+>Ricerca alloggio e fltri avanzati, creazione alloggio e messa a disposizione, gestione pagamento e sponsorizzazione, comunicazione utente-host, gestione visibiità alloggio, intgrazione TOM TOM ed Open street map per autocompletare indirizzi di ricerca e visualizzare la mappa agli utenti ed agli host, chiamate api protette ed autenticate lato Admin.
 
 ### Area Pubblica
 
