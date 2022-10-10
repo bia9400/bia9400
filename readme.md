@@ -11,7 +11,8 @@
 
 ### Applicazione web viaggi 
 >Rproduzione Airbnb, parte pubblica ed Admin
-Area Admin
+<br>
+>Area Admin
 https://user-images.githubusercontent.com/101462973/194837370-bd8a6ae4-a6b7-4fda-a231-7fb446d11b75.mp4
 
 [Link Repo](https://github.com/bia9400/proj-html-vuejs)
