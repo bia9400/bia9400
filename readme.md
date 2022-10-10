@@ -9,8 +9,9 @@
 # Projects
 
 
-### Applicazione web viaggi 
+## Applicazione web viaggi 
 >Rproduzione Airbnb, parte pubblica ed Admin
+### Area Admin 
 
 https://user-images.githubusercontent.com/101462973/194837370-bd8a6ae4-a6b7-4fda-a231-7fb446d11b75.mp4
 
@@ -19,7 +20,7 @@ https://user-images.githubusercontent.com/101462973/194837370-bd8a6ae4-a6b7-4fda
 <br>
 
     
-### Sito interattivo e responsive in Vue: 
+## Sito interattivo e responsive in Vue: 
 >Rproduzione sito KeyNotes ed alcune features (timer funzionante, slider,google maps, video embed)
 
 https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd-aa18-4fe68bed0441.mp4
@@ -29,7 +30,7 @@ https://user-images.githubusercontent.com/101462973/189290545-77739d1a-3562-4acd
 <br>
 
 
-### Blog in Laravel e Vue 
+## Blog in Laravel e Vue 
 >Gestione CRUDE, controllers ed autenticazione. Grafica non ultimata.
 
 https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a-aa83-494d8d042390.mp4
@@ -39,7 +40,7 @@ https://user-images.githubusercontent.com/101462973/189286962-19ebead0-131a-4b9a
 <br>
 
 
-### Web App Boolzapp 
+## Web App Boolzapp 
 >Riproduzione Whatsaap web in Javascript
 
 https://user-images.githubusercontent.com/101462973/189294800-d1122c8c-5e4e-4c88-948d-4df74ef2a790.mp4
