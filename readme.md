@@ -13,14 +13,15 @@
 >Rproduzione di Airbnb e delle sue principali funzionalità come : 
 >Ricerca alloggio e fltri avanzati, creazione alloggio e messa a disposizione, gestione pagamento e sponsorizzazione, comunicazione utente-host, gestione visibiità alloggio, intgrazione TOM TOM ed Open street map per autocompletare indirizzi di ricerca e visualizzare la mappa agli utenti ed agli host, chiamate api protette ed autenticate lato Admin.
 
-### Area Pubblica
-
-https://user-images.githubusercontent.com/101462973/194841051-feb18c0e-3f9c-4430-a027-95298937afac.mp4
 ### Area Admin 
 
 https://user-images.githubusercontent.com/101462973/194837370-bd8a6ae4-a6b7-4fda-a231-7fb446d11b75.mp4
 
 [Link Repo](https://github.com/Team7BoolBnB/BoolBnb)
+### Area Pubblica
+
+https://user-images.githubusercontent.com/101462973/194841051-feb18c0e-3f9c-4430-a027-95298937afac.mp4
+
 <br>
 <br>
 
