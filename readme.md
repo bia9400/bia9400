@@ -17,10 +17,12 @@
 
 https://user-images.githubusercontent.com/101462973/194837370-bd8a6ae4-a6b7-4fda-a231-7fb446d11b75.mp4
 
-[Link Repo](https://github.com/Team7BoolBnB/BoolBnb)
+
 ### Area Pubblica
 
 https://user-images.githubusercontent.com/101462973/194841051-feb18c0e-3f9c-4430-a027-95298937afac.mp4
+
+[Link Repo](https://github.com/Team7BoolBnB/BoolBnb)
 
 <br>
 <br>
